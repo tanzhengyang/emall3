@@ -15,6 +15,7 @@ public class Items {
 
     private String detail;
 	private String address;
+	private int a;
 
     public Integer getId() {
         return id;
