@@ -14,6 +14,7 @@ public class Items {
     private Date createtime;
 
     private String detail;
+	private String address;
 
     public Integer getId() {
         return id;
